@@ -35,8 +35,9 @@ It is assumed you have a solid understanding of the following topics prior to st
 ### Week1
 
 - [Materials](./course1/week1/materials)
+- [Assignment](./course1/week1/Assignment)
 - [Quiz](./course1/week1/quiz)
-- [Note](./course1/week1/NOTE.md)
+- [Note](./course1/week1/notes)
 
 
 ### Week2
