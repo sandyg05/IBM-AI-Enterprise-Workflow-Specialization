@@ -32,10 +32,12 @@ This course targets existing data science practitioners that have expertise buil
 What skills should you have?
 It is assumed you have a solid understanding of the following topics prior to starting this course: Fundamental understanding of Linear Algebra; Understand sampling, probability theory, and probability distributions; Knowledge of descriptive and inferential statistical concepts; General understanding of machine learning techniques and best practices; Practiced understanding of Python and the packages commonly used in data science: NumPy, Pandas, matplotlib, scikit-learn; Familiarity with IBM Watson Studio; Familiarity with the design thinking process.
 
+![](./course1/c1.png)
+
 ### Week1
 
 - [Materials](./course1/week1/materials)
-- [Assignment](./course1/week1/Assignment)
+- [Project](./course1/week1/project)
 - [Quiz](./course1/week1/quiz)
 - [Note](./course1/week1/notes)
 
@@ -43,11 +45,8 @@ It is assumed you have a solid understanding of the following topics prior to st
 ### Week2
 
 - [Materials](./course1/week2/materials)
+- [Project](./course1/week2/project)
 - [Quiz](./course1/week2/quiz)
-- [Note](./course1/week2/NOTE.md)
-
-
-
-
+- [Note](./course1/week2/notes)
 
 
